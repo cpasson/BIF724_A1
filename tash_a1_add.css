@@ -1,0 +1,61 @@
+body {
+    background-color: #82a43a;
+}
+
+.nav a {
+  color: grey;
+  font-size: 24px;
+  border: 2px solid;
+  background-color: #385970;
+  border-radius: 10px;
+  border-color: black;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+.nav .pull-left :hover {
+  background-color: #65442D;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nameheader {
+  color: #893AA4;
+  font-size: 30px;
+}
+
+.table {
+  font-size: 28px;
+  position: relative;
+  left: 150px;
+  height: 200px;
+}
+
+.relative {
+  font-size: 28px;
+  color: #670046;
+  position: relative;
+  left: 700px;
+  top: 200px;
+}
+
+.textbox {
+  height: 20px;
+  width: 230px;
+  border-color: black;
+  background-color: grey;
+}
+
+table {
+  border-collapse: collapse;
+  border-color: black;
+  width: auto;
+}
+
+td { 
+  padding: 6px; 
+  text-align: left;
+  color: black;
+}
